@@ -1,0 +1,9 @@
+{
+  "get_url": "https://jsonplaceholder.typicode.com/posts/1",
+  "post_url": "https://jsonplaceholder.typicode.com/posts",
+  "post_body": {
+    "title": "POS Test",
+    "body": "This is a test post",
+    "userId": 1
+  }
+}
